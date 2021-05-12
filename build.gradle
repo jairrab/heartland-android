@@ -15,6 +15,7 @@ buildscript {
 }
 
 allprojects {
+    group = 'com.github.heartland-android'
     repositories {
         google()
         jcenter()
